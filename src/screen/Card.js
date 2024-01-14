@@ -1,7 +1,6 @@
 import { ImageBackground, Text, TouchableOpacity, View } from "react-native"
 import { deviceHeight, deviceWidth } from "./Dimension";
 import React from "react";
-import Details from "./Details";
 
 
 const Card = ({ name, image, navigation }) => {
